@@ -52,6 +52,7 @@ B. G. Teo, “Stock prices prediction using long short-term memory (LSTM) model 
 “Download Historical Data in yahoo finance | yahoo help - SLN2311,” Yahoo! [Online]. Available: https://help.yahoo.com/kb/SLN2311.html. [Accessed: 13-Apr-2023]. 
 
 K. L. says: “What is LSTM - introduction to long short term memory,” Intellipaat Blog, 04-Mar-2023. [Online]. Available: https://intellipaat.com/blog/what-is-lstm/#:~:text=First%2C%20you%20must%20be%20wondering,especially%20in%20sequence%20prediction%20problems. [Accessed: 13-Apr-2023]. 
+
 “Stock price prediction using Python & Machine Learning,” YouTube, 21-Dec-2019. [Online]. Available: https://www.youtube.com/watch?v=QIUxPv5PJOY. [Accessed: 13-Apr-2023]. 
 
 “Time Series Data Analysis,” Corporate Finance Institute, 09-Jan-2023. [Online]. Available: https://corporatefinanceinstitute.com/resources/data-science/time-series-data-analysis/. [Accessed: 14-Apr-2023]. 
