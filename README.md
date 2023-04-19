@@ -20,8 +20,13 @@ How do we build the most accurate stock price prediction model, and what data is
 
 | Variable | Definition | 
 | ------- | --- |
-| Placeholder1| Add definition|
-| placeholder2 | Add definition |
+| Date | The ‘rows’ of the data which represent the specific day the stock data is for.|
+| Open | The price at which the asset starts at when trading begins. |
+| High |The highest price an asset has been traded at.|
+| Low | The lowest price an asset has been traded at. |
+| Close* |The last price at which a stock is traded during the trading session.|
+| Adj Close** | The closing price after accounting for applicable splits and dividend distributions. |
+| Volume | Number of shares traded on a given day. |
 
 ### Link to Data
 
