@@ -30,7 +30,8 @@ How do we build the most accurate stock price prediction model, and what data is
 
 ### Link to Data
 
-
+https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC
+https://finance.yahoo.com/quote/%5EIXIC/history?p=%5EIXIC
 
 
 ### Notes about use of Data
