@@ -37,6 +37,8 @@ How do we build the most accurate stock price prediction model, and what data is
 
 ### Notes about use of Data
 
+We used data from two stocks, IXIC and GSPC. We are interested in seeing observations in each industry. 
+
 
 ## Figures Section
 ### Table of Contents
