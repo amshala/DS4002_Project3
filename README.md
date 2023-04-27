@@ -9,10 +9,11 @@ How do we build the most accurate stock price prediction model, and what data is
 ## SRC Section
 
 ### Installing/Building the Code
-
+The main packages the code utilizes are sklearn, yfinance, pandas, and tensorflow. All the required packages are in the import section of the notebook. Once those packages are installed and imported, the rest of the code will run.
 
 
 ### Usage of Code
+This code is intended to build a model that can accurately predict past stock prices.
 
 ## Data Section
 
@@ -29,23 +30,20 @@ How do we build the most accurate stock price prediction model, and what data is
 | Volume | Number of shares traded on a given day. |
 
 ### Link to Data
-
-[NASDAQ Composite (^IXIC)](https://finance.yahoo.com/quote/%5EIXIC/history?p=%5EIXIC)
-
 [S&P 500 (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC)
 
 
 ### Notes about use of Data
 
-We used data from two stocks, IXIC and GSPC. We are interested in seeing observations in each industry. 
+We used data from GSPC. We are interested in seeing how GSPC stocks have increased and decreased overtime and whether we can use that data and build a model that can accurately predict stock prices for GSPC. 
 
 
 ## Figures Section
 ### Table of Contents
 | Figure | Key Takeaways | 
 | ------- | --- |
-| linegraph.png | Line graph depicting the closing stock prices over time.|
-| Figureplaceholder2 | Add description here.|
+| exploratory.png | Line graph depicting the closing stock prices over time for GSPC.|
+| prediction.png | The graph depicting how our model predicted stock prices over time.|
 
 
 ## References Section
