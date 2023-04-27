@@ -1,0 +1,1 @@
+This data was obtained by entering 'GSPC'into the yahoo finance search bar. Then we adjusted the dates to be from 01/01/1980 to 01/01/2023. Our code pulls the data directly from the site using the yfinance package.
